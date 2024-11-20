@@ -1,0 +1,8 @@
+.feedback-form{
+    display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-family: 'Fira Code', monospace;
+  background-color: #afc1e7;
+  /* align-items: center; */
+}
