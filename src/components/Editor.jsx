@@ -40,7 +40,7 @@ sayHello();
     return (
         <div className="code-container">
             <Navbar></Navbar>
-            <a href="#">GITHUB</a>
+            <a href="https://github.com/Nikhil-Jaiswal-17/Code-Editor-in-React-2" target="_blank">GITHUB</a>
             <div className="editor-container">
                 <textarea
                     className="editor-textarea"
